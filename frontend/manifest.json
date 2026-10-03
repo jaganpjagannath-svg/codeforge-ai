@@ -1,0 +1,40 @@
+{
+  "name": "CodeForge AI - Programming & Assessment Platform",
+  "short_name": "CodeForge AI",
+  "description": "AI-powered programming learning, code execution, and assessment platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563eb'/><path d='M30 35 L15 50 L30 65 M70 35 L85 50 L70 65 M55 25 L45 75' stroke='white' stroke-width='8' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='80' cy='25' r='8' fill='%23fbbf24'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Practice Coding",
+      "url": "/#/practice",
+      "description": "Solve programming problems in the code editor"
+    },
+    {
+      "name": "AI Question Box",
+      "url": "/#/ai-studio",
+      "description": "Generate custom programming challenges with Gemini"
+    },
+    {
+      "name": "Coding Assessments",
+      "url": "/#/tests",
+      "description": "Take or create shareable programming tests"
+    },
+    {
+      "name": "Dashboard",
+      "url": "/#/dashboard",
+      "description": "View streaks and mastery progress"
+    }
+  ]
+}
