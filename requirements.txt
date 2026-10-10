@@ -29,5 +29,3 @@ python-dotenv>=1.0.0
 
 # Testing & Quality Assurance
 pytest>=8.0.0
-gunicorn
-email-validator
